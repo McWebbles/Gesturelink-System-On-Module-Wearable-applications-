@@ -1,0 +1,2 @@
+# Gesturelink-System-On-Module-Wearable-applications-
+Gesturelink is a system on module that is designed for wearable applications originally designed for medtech and biomedical applications. This System on Module was originally designed for a specific application in the embedded/biomedical sector, although all hardware and design files will be included to make informed changes for differing usecases.

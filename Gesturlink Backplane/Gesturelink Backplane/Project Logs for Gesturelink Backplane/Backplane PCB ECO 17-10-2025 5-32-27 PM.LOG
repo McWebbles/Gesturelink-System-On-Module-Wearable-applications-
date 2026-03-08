@@ -1,0 +1,836 @@
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Added Component: Designator=C?(CAPC1608X09N)
+Added Component: Designator=C?(CAPC1608X09N)
+Added Component: Designator=C?(CAPC1005X06N)
+Added Component: Designator=C?(CAPC1005X06N)
+Added Component: Designator=C?(CAPC1005X06N)
+Added Component: Designator=D?(DIODFN100X60X40-2N)
+Added Component: Designator=D?(DIODFN100X60X40-2N)
+Added Component: Designator=D?(DIODFN100X60X40-2N)
+Add component: Footprint Not Found IPEX_20455-040E-76
+Added Component: Designator=J?(FP-ARJM11D7-502-AB-EW2-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "RJ45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Direction"; Value = "Up"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Cores per Jack"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=K?(AMPHENOL_20021521-00010T1LF)
+Added Component: Designator=K?(AMPHENOL_20021521-00010T1LF)
+Added Component: Designator=K?(SAMTEC_TSW-102-07-F-S)
+Added Component: Designator=K?(SAMTEC_TSW-102-07-F-S)
+Added Component: Designator=K?(SAMTEC_TSW-102-07-F-S)
+Added Component: Designator=K?(SAMTEC_TSW-102-07-F-S)
+Added Component: Designator=K?(SAMTEC_TSW-102-07-F-S)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03N)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC0603X03N)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW_219-4LPST)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'CTS Electrocomponents'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "219-4LPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SD1(FCI-10067847-001RLF_V)
+Add component (AddParameter): Name = "Connector Type"; Value = "MemoryCard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "GoldPlatedContacts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/1106/10067847-1106690.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. K, 09/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://portal.fciconnect.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Contacts"; Value = "11Contacts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "11-Pin Surface Mount Device, Body 29 x 28.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "10067847-001RLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "NoSVHC(15-Jun-2015)"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(Test Point)
+Added Component: Designator=TP?(Test Point)
+Added Component: Designator=TP?(Test Point)
+Added Component: Designator=TP(Test Point)
+Added Component: Designator=U1(FP-PAP0064M-MFG)
+Add component (AddParameter): Name = "Cable Length"; Value = "130m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "157mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U?(PAP0064D_L)
+Add component (AddParameter): Name = "Clock P-P Jitter(Max)(ps)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TFP410&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "SamplesURL:http://www.ti.com/product/tfp410#samples"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data P-P Jitter(Max)(ps)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Throughput(MB/s)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLDS145B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Driver (RL)(Ohms)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Driver tpd(ns)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD HBM(kV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC(Max)(mA)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inter-Pair Skew(Max)(ps)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Intra-Pair Skew(Max)(ps)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of DisplayPort Dual Mode Inputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of DisplayPort Dual Mode Outputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of TMDS Inputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of TMDS Outputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Parallel Inputs"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Parallel Outputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "64-Pin Plastic Quad Flat Pack, 10 x 10 mm Body, 0.5 mm Pitch, Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PAP0064D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revC, Aug-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TFP410PAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLL Frequency(MHz)"; Value = "25 to 165"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receiver"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receiver (Vth)(mV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receiver tpd(ns)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Serial Data Receiver Channels"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Serial Data Transmitter Channels"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "PanelBus (DVI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(s)(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMDS Adaptive Equalization"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMDS Input Equalization"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMDS Output De-emphasis"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transmitter"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type of Line Circuit"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(FP-NZC0064A-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "FBGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "2380Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function"; Value = "Receiver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "1.61W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-10°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Drivers"; Value = "28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Receivers"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "360"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "1.61W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "DS90CF386"; VariantName = "[No Variations]"
+Added Component: Designator=U?(PAP0064D_L)
+Add component (AddParameter): Name = "Clock P-P Jitter(Max)(ps)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TFP410&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "SamplesURL:http://www.ti.com/product/tfp410#samples"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data P-P Jitter(Max)(ps)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Throughput(MB/s)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLDS145B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Driver (RL)(Ohms)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Driver tpd(ns)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD HBM(kV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC(Max)(mA)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inter-Pair Skew(Max)(ps)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Intra-Pair Skew(Max)(ps)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of DisplayPort Dual Mode Inputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of DisplayPort Dual Mode Outputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of TMDS Inputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of TMDS Outputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Parallel Inputs"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Parallel Outputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "64-Pin Plastic Quad Flat Pack, 10 x 10 mm Body, 0.5 mm Pitch, Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PAP0064D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revC, Aug-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TFP410PAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLL Frequency(MHz)"; Value = "25 to 165"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receiver"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receiver (Vth)(mV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receiver tpd(ns)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Serial Data Receiver Channels"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Serial Data Transmitter Channels"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "PanelBus (DVI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(s)(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMDS Adaptive Equalization"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMDS Input Equalization"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMDS Output De-emphasis"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transmitter"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type of Line Circuit"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found IC_PCAL9722HN/Q900MP
+Added Component: Designator=U?(PAP0064D_L)
+Add component (AddParameter): Name = "Clock P-P Jitter(Max)(ps)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TFP410&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "SamplesURL:http://www.ti.com/product/tfp410#samples"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data P-P Jitter(Max)(ps)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Throughput(MB/s)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLDS145B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Driver (RL)(Ohms)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Driver tpd(ns)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD HBM(kV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC(Max)(mA)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inter-Pair Skew(Max)(ps)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Intra-Pair Skew(Max)(ps)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of DisplayPort Dual Mode Inputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of DisplayPort Dual Mode Outputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of TMDS Inputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of TMDS Outputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Parallel Inputs"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Parallel Outputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "64-Pin Plastic Quad Flat Pack, 10 x 10 mm Body, 0.5 mm Pitch, Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PAP0064D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revC, Aug-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TFP410PAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLL Frequency(MHz)"; Value = "25 to 165"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receiver"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receiver (Vth)(mV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receiver tpd(ns)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Serial Data Receiver Channels"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Serial Data Transmitter Channels"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "PanelBus (DVI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(s)(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMDS Adaptive Equalization"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMDS Input Equalization"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMDS Output De-emphasis"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transmitter"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type of Line Circuit"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=SYS_3V3 Pin=C?-2
+Added Pin To Net: NetName=SYS_3V3 Pin=C?-2
+Added Pin To Net: NetName=V_BACKLIGHT Pin=C?-2
+Added Pin To Net: NetName=V_BACKLIGHT Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=TD_A_P Pin=J?-1
+Added Pin To Net: NetName=NetD?_2 Pin=J?-2
+Added Pin To Net: NetName=TD_A_N Pin=J?-2
+Added Pin To Net: NetName=SYS_3V3 Pin=J?-3
+Added Pin To Net: NetName=TD_B_P Pin=J?-3
+Added Pin To Net: NetName=SYS_3V3 Pin=J?-4
+Added Pin To Net: NetName=TD_B_N Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=NetC?_2 Pin=J?-5
+Added Pin To Net: NetName=NetC?_2 Pin=J?-6
+Added Pin To Net: NetName=NetJ?_6 Pin=J?-6
+Added Pin To Net: NetName=NetJ?_7 Pin=J?-7
+Added Pin To Net: NetName=TD_C_P Pin=J?-7
+Added Pin To Net: NetName=NetJ?_8 Pin=J?-8
+Added Pin To Net: NetName=TD_C_N Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=TD_D_P Pin=J?-9
+Added Pin To Net: NetName=TD_D_N Pin=J?-10
+Added Pin To Net: NetName=LED_0 Pin=J?-11
+Added Pin To Net: NetName=GND Pin=J?-12
+Added Pin To Net: NetName=LED_1 Pin=J?-13
+Added Pin To Net: NetName=GND Pin=J?-14
+Added Pin To Net: NetName=GND Pin=J?-15
+Added Pin To Net: NetName=GND Pin=J?-16
+Add Pin To Net: Unknown Pin: Pin J?-30
+Add Pin To Net: Unknown Pin: Pin J?-31
+Add Pin To Net: Unknown Pin: Pin J?-32
+Add Pin To Net: Unknown Pin: Pin J?-33
+Add Pin To Net: Unknown Pin: Pin J?-34
+Add Pin To Net: Unknown Pin: Pin J?-35
+Add Pin To Net: Unknown Pin: Pin J?-38
+Add Pin To Net: Unknown Pin: Pin J?-39
+Add Pin To Net: Unknown Pin: Pin J?-40
+Add Pin To Net: Unknown Pin: Pin J?-S1
+Add Pin To Net: Unknown Pin: Pin J?-S2
+Add Pin To Net: Unknown Pin: Pin J?-S3
+Add Pin To Net: Unknown Pin: Pin J?-S4
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K1-2
+Added Pin To Net: NetName=GND Pin=K1-7
+Added Pin To Net: NetName=GND Pin=K1-8
+Added Pin To Net: NetName=GND Pin=K1-13
+Added Pin To Net: NetName=GND Pin=K1-14
+Added Pin To Net: NetName=GND Pin=K1-20
+Added Pin To Net: NetName=GND Pin=K1-23
+Added Pin To Net: NetName=GND Pin=K1-26
+Added Pin To Net: NetName=GND Pin=K1-27
+Added Pin To Net: NetName=GND Pin=K1-28
+Added Pin To Net: NetName=GND Pin=K1-31
+Added Pin To Net: NetName=GND Pin=K1-43
+Added Pin To Net: NetName=GND Pin=K1-47
+Added Pin To Net: NetName=GND Pin=K1-59
+Added Pin To Net: NetName=GND Pin=K1-S1
+Added Pin To Net: NetName=GND Pin=K1-S2
+Added Pin To Net: NetName=GND Pin=K1-S3
+Added Pin To Net: NetName=GND Pin=K1-S4
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_2 Pin=K?-2
+Added Pin To Net: NetName=NetK?_3 Pin=K?-3
+Added Pin To Net: NetName=NetK?_4 Pin=K?-4
+Added Pin To Net: NetName=NetK?_5 Pin=K?-5
+Added Pin To Net: NetName=GND Pin=K?-6
+Added Pin To Net: NetName=GND Pin=K?-6
+Added Pin To Net: NetName=GND Pin=K?-8
+Added Pin To Net: NetName=GND Pin=K?-8
+Added Pin To Net: NetName=GND Pin=K?-9
+Added Pin To Net: NetName=GND Pin=K?-9
+Added Pin To Net: NetName=SYS_3V3 Pin=K?-10
+Added Pin To Net: NetName=SYS_3V3 Pin=K?-10
+Added Pin To Net: NetName=NetK?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Pin To Net: NetName=NetK?_2 Pin=R?-2
+Added Pin To Net: NetName=NetK?_3 Pin=R?-2
+Added Pin To Net: NetName=NetK?_4 Pin=R?-2
+Added Pin To Net: NetName=NetK?_5 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-2
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-2
+Added Pin To Net: NetName=NetK?_2 Pin=S1-4
+Added Pin To Net: NetName=NetK?_1 Pin=S1-5
+Added Pin To Net: NetName=GND Pin=SD1-3
+Added Pin To Net: NetName=GND Pin=SD1-6
+Added Pin To Net: NetName=GND Pin=SD1-12
+Added Pin To Net: NetName=GND Pin=SD1-13
+Added Pin To Net: NetName=NetK?_1 Pin=TP?-12
+Added Pin To Net: NetName=TD_A_P Pin=U1-2
+Added Pin To Net: NetName=TD_A_N Pin=U1-3
+Added Pin To Net: NetName=TD_B_P Pin=U1-5
+Added Pin To Net: NetName=TD_B_N Pin=U1-6
+Added Pin To Net: NetName=TD_C_P Pin=U1-10
+Added Pin To Net: NetName=TD_C_N Pin=U1-11
+Added Pin To Net: NetName=TD_D_P Pin=U1-13
+Added Pin To Net: NetName=TD_D_N Pin=U1-14
+Added Pin To Net: NetName=LED_1 Pin=U1-62
+Added Pin To Net: NetName=LED_0 Pin=U1-63
+Added Pin To Net: NetName=GND Pin=U1-65
+Added Pin To Net: NetName=GND Pin=U?-25
+Added Pin To Net: NetName=GND Pin=U?-26
+Added Pin To Net: NetName=GND Pin=U?-33
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Added Pin To Net: NetName=NetK1_3 Pin=K1-3
+Added Net: Name=NetK1_3
+Added Pin To Net: NetName=NetK1_4 Pin=K1-4
+Added Net: Name=NetK1_4
+Added Pin To Net: NetName=NetK1_5 Pin=K1-5
+Added Net: Name=NetK1_5
+Added Pin To Net: NetName=NetK1_6 Pin=K1-6
+Added Net: Name=NetK1_6
+Added Pin To Net: NetName=NetK1_9 Pin=K1-9
+Added Net: Name=NetK1_9
+Added Pin To Net: NetName=NetK1_10 Pin=K1-10
+Added Net: Name=NetK1_10
+Added Pin To Net: NetName=NetK1_11 Pin=K1-11
+Added Net: Name=NetK1_11
+Added Pin To Net: NetName=NetK1_12 Pin=K1-12
+Added Net: Name=NetK1_12
+Added Pin To Net: NetName=NetK1_15 Pin=K1-15
+Added Net: Name=NetK1_15
+Added Pin To Net: NetName=NetK1_16 Pin=K1-16
+Added Net: Name=NetK1_16
+Added Pin To Net: NetName=NetK1_17 Pin=K1-17
+Added Net: Name=NetK1_17
+Added Pin To Net: NetName=NetK1_18 Pin=K1-18
+Added Net: Name=NetK1_18
+Added Pin To Net: NetName=NetK1_19 Pin=K1-19
+Added Net: Name=NetK1_19
+Added Pin To Net: NetName=NetK1_21 Pin=K1-21
+Added Net: Name=NetK1_21
+Added Pin To Net: NetName=NetK1_22 Pin=K1-22
+Added Net: Name=NetK1_22
+Added Pin To Net: NetName=NetK1_24 Pin=K1-24
+Added Net: Name=NetK1_24
+Added Pin To Net: NetName=NetK1_25 Pin=K1-25
+Added Net: Name=NetK1_25
+Added Pin To Net: NetName=NetK1_29 Pin=K1-29
+Added Net: Name=NetK1_29
+Added Pin To Net: NetName=NetK1_33 Pin=K1-33
+Added Net: Name=NetK1_33
+Added Pin To Net: NetName=NetK1_35 Pin=K1-35
+Added Net: Name=NetK1_35
+Added Pin To Net: NetName=NetK1_37 Pin=K1-37
+Added Net: Name=NetK1_37
+Added Pin To Net: NetName=NetK1_39 Pin=K1-39
+Added Net: Name=NetK1_39
+Added Pin To Net: NetName=NetK1_41 Pin=K1-41
+Added Net: Name=NetK1_41
+Added Pin To Net: NetName=NetK1_45 Pin=K1-45
+Added Net: Name=NetK1_45
+Added Pin To Net: NetName=NetK1_49 Pin=K1-49
+Added Net: Name=NetK1_49
+Added Pin To Net: NetName=NetK1_51 Pin=K1-51
+Added Net: Name=NetK1_51
+Added Pin To Net: NetName=NetK1_53 Pin=K1-53
+Added Net: Name=NetK1_53
+Added Pin To Net: NetName=NetK1_55 Pin=K1-55
+Added Net: Name=NetK1_55
+Added Pin To Net: NetName=NetK1_57 Pin=K1-57
+Added Net: Name=NetK1_57
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_4" already exists
+Add Net: Net with name "NetK?_5" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=U_Ethernet Member=Component C? CL05A104KA5NNNC
+Added Member To Class: ClassName=U_LVDS Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=U_LVDS Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=U_LVDS Member=Component C? CL05A104KA5NNNC
+Added Member To Class: ClassName=U_LVDS Member=Component C? CL05A104KA5NNNC
+Added Member To Class: ClassName=U_LVDS Member=Component D? ESD5581N2T5G
+Added Member To Class: ClassName=U_LVDS Member=Component D? ESD5581N2T5G
+Added Member To Class: ClassName=U_LVDS Member=Component D? ESD5581N2T5G
+Added Member To Class: ClassName=U_Ethernet Member=Component J? ARJM11D7-502-AB-EW2
+Added Member To Class: ClassName=U_LVDS Member=Component J? 20455-040E-76
+Added Member To Class: ClassName=U_Connector A Member=Component K1 DF40C-60DS-0.4V(51)
+Added Member To Class: ClassName=U_Boot Switches Member=Component K? TSW-102-07-F-S
+Added Member To Class: ClassName=U_Boot Switches Member=Component K? TSW-102-07-F-S
+Added Member To Class: ClassName=U_Boot Switches Member=Component K? TSW-102-07-F-S
+Added Member To Class: ClassName=U_Boot Switches Member=Component K? TSW-102-07-F-S
+Added Member To Class: ClassName=U_Connector B Member=Component K? DF40C-60DS-0.4V(51)
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component K? TSW-102-07-F-S
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component K? 20021521-00010T1LF
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component K? 20021521-00010T1LF
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? ERJ-2RKF2201X
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? RK73H1ETTP1003F
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? ERJ-2RKF2201X
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? RK73H1ETTP1003F
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? ERJ-2RKF2201X
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? RK73H1ETTP1003F
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? ERJ-2RKF2201X
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? RK73H1ETTP1003F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? TNPW020110K0BEED
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? TNPW020110K0BEED
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? TNPW020110K0BEED
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1003F
+Added Member To Class: ClassName=U_LVDS Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_LVDS Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_LVDS Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_Boot Switches Member=Component S1 219-4LPST
+Added Member To Class: ClassName=U_SDMMC_SDCARD Member=Component SD1 10067847-001RLF
+Added Member To Class: ClassName=U_Boot Switches Member=Component TP? Test Point
+Added Member To Class: ClassName=U_Boot Switches Member=Component TP? Test Point
+Added Member To Class: ClassName=U_Boot Switches Member=Component TP? Test Point
+Added Member To Class: ClassName=U_Boot Switches Member=Component TP Test Point
+Added Member To Class: ClassName=U_Ethernet Member=Component U1 DP83867IRPAPR
+Added Member To Class: ClassName=U_GPIO Expander Member=Component U? PCAL9722HN/Q900MP
+Added Member To Class: ClassName=U_LVDS Member=Component U? TFP410PAP
+Added Member To Class: ClassName=U_LVDS Member=Component U? DS90CF386SLC/NOPB
+Added Member To Class: ClassName=U_LVDS Member=Component U? TFP410PAP
+Added Member To Class: ClassName=U_LVDS Member=Component U? TFP410PAP

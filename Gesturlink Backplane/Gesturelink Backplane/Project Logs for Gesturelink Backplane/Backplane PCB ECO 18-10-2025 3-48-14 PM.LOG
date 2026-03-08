@@ -1,0 +1,312 @@
+Removed Pin From Net: NetName=GND Pin=2-1
+Removed Pin From Net: NetName=NetD?_2 Pin=2-2
+Removed Pin From Net: NetName=SYS_3V3 Pin=2-3
+Removed Pin From Net: NetName=SYS_3V3 Pin=2-4
+Removed Pin From Net: NetName=GND Pin=2-5
+Removed Pin From Net: NetName=GND Pin=2-9
+Removed Member From Class: ClassName=U_SDMMC_SDCARD Member=SD1
+Removed Member From Class: ClassName=U_GPIO Expander Member=U3
+Change Footprint: Footprint Not Found IC_PCAL9722HN/Q900MP
+Change Component Designator: OldDesignator=2 NewDesignator=J2
+Add component: Footprint Not Found IPEX_20455-040E-76
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-9
+Add Pin To Net: Unknown Pin: Pin J1-30
+Add Pin To Net: Unknown Pin: Pin J1-31
+Add Pin To Net: Unknown Pin: Pin J1-32
+Add Pin To Net: Unknown Pin: Pin J1-33
+Add Pin To Net: Unknown Pin: Pin J1-34
+Add Pin To Net: Unknown Pin: Pin J1-35
+Add Pin To Net: Unknown Pin: Pin J1-38
+Add Pin To Net: Unknown Pin: Pin J1-39
+Add Pin To Net: Unknown Pin: Pin J1-40
+Add Pin To Net: Unknown Pin: Pin J1-S1
+Add Pin To Net: Unknown Pin: Pin J1-S2
+Add Pin To Net: Unknown Pin: Pin J1-S3
+Add Pin To Net: Unknown Pin: Pin J1-S4
+Add Pin To Net: Unknown Pin: Pin U2-44
+Add Pin To Net: Unknown Pin: Pin U2-45
+Add Pin To Net: Unknown Pin: Pin U2-46
+Add Pin To Net: Unknown Pin: Pin U2-47
+Add Pin To Net: Unknown Pin: Pin U2-48
+Add Pin To Net: Unknown Pin: Pin U2-49
+Add Pin To Net: Unknown Pin: Pin U2-50
+Add Pin To Net: Unknown Pin: Pin U2-51
+Add Pin To Net: Unknown Pin: Pin U2-52
+Add Pin To Net: Unknown Pin: Pin U2-53
+Add Pin To Net: Unknown Pin: Pin U2-54
+Add Pin To Net: Unknown Pin: Pin U2-55
+Add Pin To Net: Unknown Pin: Pin U2-56
+Add Pin To Net: Unknown Pin: Pin U2-57
+Add Pin To Net: Unknown Pin: Pin U2-58
+Add Pin To Net: Unknown Pin: Pin U2-59
+Add Pin To Net: Unknown Pin: Pin U2-60
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Added Net: Name=NetJ1_6
+Added Net: Name=NetJ1_7
+Added Net: Name=NetJ1_8
+Added Pin To Net: NetName=NetJ1_10 Pin=U2-37
+Added Net: Name=NetJ1_10
+Added Pin To Net: NetName=NetJ1_11 Pin=U2-38
+Added Net: Name=NetJ1_11
+Added Pin To Net: NetName=NetJ1_12 Pin=U2-35
+Added Net: Name=NetJ1_12
+Added Pin To Net: NetName=NetJ1_13 Pin=U2-36
+Added Net: Name=NetJ1_13
+Added Pin To Net: NetName=NetJ1_14 Pin=U2-33
+Added Net: Name=NetJ1_14
+Added Pin To Net: NetName=NetJ1_15 Pin=U2-34
+Added Net: Name=NetJ1_15
+Added Pin To Net: NetName=NetJ1_16 Pin=U2-19
+Added Net: Name=NetJ1_16
+Added Pin To Net: NetName=NetJ1_17 Pin=U2-18
+Added Net: Name=NetJ1_17
+Added Pin To Net: NetName=NetJ1_18 Pin=U2-31
+Added Net: Name=NetJ1_18
+Added Pin To Net: NetName=NetJ1_19 Pin=U2-32
+Added Net: Name=NetJ1_19
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_4" already exists
+Add Net: Net with name "NetK?_5" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Change Class Name : Old Net Name=U_SDMMC_SDCARD New Net Name=U_Ethernet
+Added Class: Name=U_SDMMC_SDCARD
+Added Member To Class: ClassName=U_LVDS Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=U_LVDS Member=Component C? CL05A104KA5NNNC
+Added Member To Class: ClassName=U_LVDS Member=Component C? CL05A104KA5NNNC
+Added Member To Class: ClassName=U_Ethernet Member=Component C? CL05A104KA5NNNC
+Added Member To Class: ClassName=U_LVDS Member=Component D? ESD5581N2T5G
+Added Member To Class: ClassName=U_LVDS Member=Component D? ESD5581N2T5G
+Add Class Member: Failed to add class member : Component J1 20455-040E-76
+Added Member To Class: ClassName=U_Ethernet Member=Component J? ARJM11D7-502-AB-EW2
+Added Member To Class: ClassName=U_Boot Switches Member=Component K? TSW-102-07-F-S
+Added Member To Class: ClassName=U_Boot Switches Member=Component K? TSW-102-07-F-S
+Added Member To Class: ClassName=U_Boot Switches Member=Component K? TSW-102-07-F-S
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component K? 20021521-00010T1LF
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component K? 20021521-00010T1LF
+Added Member To Class: ClassName=U_LVDS Member=Component Q? BSS123NH6327XTSA1
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? RK73H1ETTP1003F
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? ERJ-2RKF2201X
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? RK73H1ETTP1003F
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? ERJ-2RKF2201X
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? ERJ-2RKF2201X
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? RK73H1ETTP1003F
+Added Member To Class: ClassName=U_Boot Switches Member=Component R? ERJ-2RKF2201X
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? TNPW020110K0BEED
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? TNPW020110K0BEED
+Added Member To Class: ClassName=U_GPIO Expander Member=Component R? ERJ-1GNF33R0C
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_JTAG interfaces Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_LVDS Member=Component R? ERA-2AEB95R3X
+Added Member To Class: ClassName=U_LVDS Member=Component R? ERA-2AEB95R3X
+Added Member To Class: ClassName=U_LVDS Member=Component R? ERA-2AEB95R3X
+Added Member To Class: ClassName=U_LVDS Member=Component R? ERJ-2RKF1000X
+Added Member To Class: ClassName=U_LVDS Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_LVDS Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_LVDS Member=Component R? ERA-2AEB95R3X
+Added Member To Class: ClassName=U_LVDS Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_LVDS Member=Component R? RK73H1ETTP1003F
+Added Member To Class: ClassName=U_LVDS Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_LVDS Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_LVDS Member=Component R? RK73H1ETTP2051F
+Added Member To Class: ClassName=U_LVDS Member=Component R? ERA-2AEB95R3X
+Added Member To Class: ClassName=U_LVDS Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_LVDS Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_LVDS Member=Component R? ERJ-2RKF33R0X
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP1002F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Ethernet Member=Component R? RK73H1ETTP22R0F
+Added Member To Class: ClassName=U_Boot Switches Member=Component TP? Test Point
+Added Member To Class: ClassName=U_Boot Switches Member=Component TP? Test Point
+Added Member To Class: ClassName=U_Ethernet Member=Component U1 DP83867IRPAPR
+Added Member To Class: ClassName=U_GPIO Expander Member=Component U? PCAL9722HN/Q900MP
+Added Member To Class: ClassName=U_LVDS Member=Component U? TXU0101DBVR

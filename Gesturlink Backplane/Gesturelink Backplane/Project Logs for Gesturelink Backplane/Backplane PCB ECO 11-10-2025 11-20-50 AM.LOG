@@ -1,0 +1,494 @@
+Added Component: Designator=C?(CAPC1005X06N)
+Added Component: Designator=C?(CAPC1608X09N)
+Added Component: Designator=C?(CAPC1005X06N)
+Added Component: Designator=C?(CAPC1005X06N)
+Added Component: Designator=C?(CAPC1608X09N)
+Added Component: Designator=D?(DIODFN100X60X40-2N)
+Added Component: Designator=D?(DIODFN100X60X40-2N)
+Added Component: Designator=D?(DIODFN100X60X40-2N)
+Add component: Footprint Not Found IPEX_20455-040E-76
+Added Component: Designator=J?(FP-ARJM11D7-502-AB-EW2-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "RJ45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Direction"; Value = "Up"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Cores per Jack"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=K?(SAMTEC_TSW-102-07-F-S)
+Added Component: Designator=K?(DF40C-60DS-0.4V(51))
+Added Component: Designator=K?(AMPHENOL_20021521-00010T1LF)
+Added Component: Designator=K?(AMPHENOL_20021521-00010T1LF)
+Added Component: Designator=K?(DF40C-60DS-0.4V(51))
+Added Component: Designator=K?(SAMTEC_TSW-102-07-F-S)
+Added Component: Designator=K?(SAMTEC_TSW-102-07-F-S)
+Added Component: Designator=K?(SAMTEC_TSW-102-07-F-S)
+Added Component: Designator=K?(SAMTEC_TSW-102-07-F-S)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03N)
+Added Component: Designator=R?(RESC0603X03N)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC1005X04L)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03N)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X04N)
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X03L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ERJ-1GNF33R0C/2035941"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW_219-4LPST)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'CTS Electrocomponents'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "219-4LPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SD1(FCI-10067847-001RLF_V)
+Add component (AddParameter): Name = "Connector Type"; Value = "MemoryCard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "GoldPlatedContacts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/1106/10067847-1106690.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. K, 09/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://portal.fciconnect.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Contacts"; Value = "11Contacts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "11-Pin Surface Mount Device, Body 29 x 28.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "10067847-001RLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "NoSVHC(15-Jun-2015)"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(Test Point)
+Added Component: Designator=TP?(Test Point)
+Added Component: Designator=TP?(Test Point)
+Added Component: Designator=TP(Test Point)
+Added Component: Designator=U1(FP-PAP0064M-MFG)
+Add component (AddParameter): Name = "Cable Length"; Value = "130m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "157mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component: Footprint Not Found IC_PCAL9722HN/Q900MP
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-12
+Added Pin To Net: NetName=GND Pin=J?-14
+Added Pin To Net: NetName=GND Pin=J?-15
+Added Pin To Net: NetName=GND Pin=J?-16
+Added Pin To Net: NetName=GND Pin=K?-6
+Added Pin To Net: NetName=GND Pin=K?-6
+Added Pin To Net: NetName=GND Pin=K?-8
+Added Pin To Net: NetName=GND Pin=K?-8
+Added Pin To Net: NetName=GND Pin=K?-9
+Added Pin To Net: NetName=GND Pin=K?-9
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=SD1-3
+Added Pin To Net: NetName=GND Pin=SD1-6
+Added Pin To Net: NetName=GND Pin=SD1-12
+Added Pin To Net: NetName=GND Pin=SD1-13
+Added Pin To Net: NetName=GND Pin=U1-65
+Added Net: Name=GND
+Added Pin To Net: NetName=LED_0 Pin=J?-11
+Added Pin To Net: NetName=LED_0 Pin=U1-63
+Added Net: Name=LED_0
+Added Pin To Net: NetName=LED_1 Pin=J?-13
+Added Pin To Net: NetName=LED_1 Pin=U1-62
+Added Net: Name=LED_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=J?-5
+Added Pin To Net: NetName=NetC?_2 Pin=J?-6
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Net: Name=NetD?_2
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Added Pin To Net: NetName=NetJ?_6 Pin=J?-6
+Added Net: Name=NetJ?_6
+Added Pin To Net: NetName=NetJ?_7 Pin=J?-7
+Added Net: Name=NetJ?_7
+Added Pin To Net: NetName=NetJ?_8 Pin=J?-8
+Added Net: Name=NetJ?_8
+Added Pin To Net: NetName=NetJ?_10 Pin=J?-10
+Added Net: Name=NetJ?_10
+Added Pin To Net: NetName=NetJ?_11 Pin=J?-11
+Added Net: Name=NetJ?_11
+Added Pin To Net: NetName=NetJ?_12 Pin=J?-12
+Added Net: Name=NetJ?_12
+Added Pin To Net: NetName=NetJ?_13 Pin=J?-13
+Added Net: Name=NetJ?_13
+Added Pin To Net: NetName=NetJ?_14 Pin=J?-14
+Added Net: Name=NetJ?_14
+Added Pin To Net: NetName=NetJ?_15 Pin=J?-15
+Added Net: Name=NetJ?_15
+Added Pin To Net: NetName=NetJ?_16 Pin=J?-16
+Added Net: Name=NetJ?_16
+Added Net: Name=NetJ?_17
+Added Net: Name=NetJ?_18
+Added Net: Name=NetJ?_19
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=R?-1
+Added Net: Name=NetK?_1
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Add Net: Net with name "NetK?_1" already exists
+Added Pin To Net: NetName=NetK?_2 Pin=K?-2
+Added Pin To Net: NetName=NetK?_2 Pin=R?-2
+Added Pin To Net: NetName=NetK?_2 Pin=S1-3
+Added Net: Name=NetK?_2
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Added Pin To Net: NetName=NetK?_3 Pin=K?-3
+Added Pin To Net: NetName=NetK?_3 Pin=R?-2
+Added Net: Name=NetK?_3
+Add Net: Net with name "NetK?_3" already exists
+Added Pin To Net: NetName=NetK?_4 Pin=K?-4
+Added Pin To Net: NetName=NetK?_4 Pin=R?-2
+Added Net: Name=NetK?_4
+Add Net: Net with name "NetK?_4" already exists
+Added Pin To Net: NetName=NetK?_5 Pin=K?-5
+Added Pin To Net: NetName=NetK?_5 Pin=R?-2
+Added Net: Name=NetK?_5
+Add Net: Net with name "NetK?_5" already exists
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U1-44
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=SYS_3V3 Pin=C?-2
+Added Pin To Net: NetName=SYS_3V3 Pin=C?-2
+Added Pin To Net: NetName=SYS_3V3 Pin=J?-3
+Added Pin To Net: NetName=SYS_3V3 Pin=J?-4
+Added Pin To Net: NetName=SYS_3V3 Pin=K?-10
+Added Pin To Net: NetName=SYS_3V3 Pin=K?-10
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-2
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-2
+Added Net: Name=SYS_3V3
+Added Pin To Net: NetName=TD_A_N Pin=J?-2
+Added Pin To Net: NetName=TD_A_N Pin=U1-3
+Added Net: Name=TD_A_N
+Added Pin To Net: NetName=TD_A_P Pin=J?-1
+Added Pin To Net: NetName=TD_A_P Pin=U1-2
+Added Net: Name=TD_A_P
+Added Pin To Net: NetName=TD_B_N Pin=J?-4
+Added Pin To Net: NetName=TD_B_N Pin=U1-6
+Added Net: Name=TD_B_N
+Added Pin To Net: NetName=TD_B_P Pin=J?-3
+Added Pin To Net: NetName=TD_B_P Pin=U1-5
+Added Net: Name=TD_B_P
+Added Pin To Net: NetName=TD_C_N Pin=J?-8
+Added Pin To Net: NetName=TD_C_N Pin=U1-11
+Added Net: Name=TD_C_N
+Added Pin To Net: NetName=TD_C_P Pin=J?-7
+Added Pin To Net: NetName=TD_C_P Pin=U1-10
+Added Net: Name=TD_C_P
+Added Pin To Net: NetName=TD_D_N Pin=J?-10
+Added Pin To Net: NetName=TD_D_N Pin=U1-14
+Added Net: Name=TD_D_N
+Added Pin To Net: NetName=TD_D_P Pin=J?-9
+Added Pin To Net: NetName=TD_D_P Pin=U1-13
+Added Net: Name=TD_D_P
+Added Pin To Net: NetName=V_BACKLIGHT Pin=C?-2
+Added Pin To Net: NetName=V_BACKLIGHT Pin=C?-2
+Added Net: Name=V_BACKLIGHT
+Added Class: Name=U_Boot Switches
+Added Class: Name=U_Connector A
+Added Class: Name=U_Connector B
+Added Class: Name=U_Ethernet
+Added Class: Name=U_GPIO Expander
+Added Class: Name=U_JTAG interfaces
+Added Class: Name=U_LVDS
+Added Class: Name=U_SDMMC_SDCARD
+Added Differential Pair: Name=TD_A
+Added Differential Pair: Name=TD_B
+Added Differential Pair: Name=TD_C
+Added Differential Pair: Name=TD_D
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
